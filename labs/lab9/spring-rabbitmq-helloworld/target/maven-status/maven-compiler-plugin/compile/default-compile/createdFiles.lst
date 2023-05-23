@@ -1,0 +1,5 @@
+com/example/springrabbitmqhelloworld/Config.class
+com/example/springrabbitmqhelloworld/Receiver.class
+com/example/springrabbitmqhelloworld/RabbitAmqpTutorialsRunner.class
+com/example/springrabbitmqhelloworld/SpringRabbitmqHelloworldApplication.class
+com/example/springrabbitmqhelloworld/Sender.class

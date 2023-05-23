@@ -1,0 +1,5 @@
+com/example/springrabbitmqhelloworld/Config.class
+com/example/springrabbitmqhelloworld/Receiver.class
+com/example/springrabbitmqworkers/SpringRabbitmqWorkersApplication.class
+com/example/springrabbitmqhelloworld/Config$ReceiverConfig.class
+com/example/springrabbitmqhelloworld/Sender.class

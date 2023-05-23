@@ -1,0 +1,21 @@
+version: "3"
+
+services:
+  api:
+    image: kong:2.4.0
+    networks:
+      - network
+    restart: always
+  cashier:
+    image: spring-cashier
+    depends_on:
+      - api
+    networks:
+      - network
+    restart: always
+    environment:
+      - API_URL=http://34.68.215.55:80/api
+
+networks:
+  network:
+    driver: bridge

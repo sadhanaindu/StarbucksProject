@@ -1,0 +1,626 @@
+{"balance":20,"cardCode":"244","cardNumber":"244540223","activated":false,"status":"New Card"}
+New Card: 244540223[244] Balance: 20.0
+Status: 200 
+{"balance":20,"cardCode":"244","cardNumber":"244540223","activated":true,"status":"New Card"}
+============================================
+--------- D E V I C E  S T A T E  ----------
+============================================
+Pin Option    = 4
+Stored Pin    = 1234
+Authenticated = false
+Orientation   = PORTRAIT
+API URL       = http://34.68.215.55:80/api
+API KEY       = Zkfokey2311
+API Register  = 5012349
+============================================
+Screen: starbucks.Passcode
+Screen: starbucks.Spacer
+Screen: starbucks.KeyPad
+Value: [Ljava.lang.String;@1da2cb77
+KeyPad Touched at (1, 5)
+Key: 1
+Key: 1 Count: 1
+Current State: starbucks.OnePinDigit
+D1 = 1
+D2 = 
+D3 = 
+D4 = 
+Screen: starbucks.Passcode
+Screen: starbucks.Spacer
+Screen: starbucks.KeyPad
+Value: [Ljava.lang.String;@48f278eb
+KeyPad Touched at (2, 5)
+Key: 2
+Key: 2 Count: 2
+Current State: starbucks.TwoPinDigits
+D1 = 1
+D2 = 2
+D3 = 
+D4 = 
+Screen: starbucks.Passcode
+Screen: starbucks.Spacer
+Screen: starbucks.KeyPad
+Value: [Ljava.lang.String;@2f217633
+KeyPad Touched at (3, 5)
+Key: 3
+Key: 3 Count: 3
+Current State: starbucks.ThreePinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 
+Screen: starbucks.Passcode
+Screen: starbucks.Spacer
+Screen: starbucks.KeyPad
+Value: [Ljava.lang.String;@a530d0a
+KeyPad Touched at (1, 6)
+Key: 4
+Key: 4 Count: 4
+Current State: starbucks.FourPinDigits
+D1 = 1
+D2 = 2
+D3 = 3
+D4 = 4
+Authenticating...
+Successful Login!
+l: 10
+w: 15
+h: 15
+DEBUG: $20.00
+
+cnt1: 1
+pad1: 4
+....
+DEBUG: [Ljava.lang.String;@23c30a20 1
+line (before): $20.00 [len = 6]
+line (after):      $20.00 [pad = 5]
+cnt2: 5
+pad2: 5
+.....
+
+
+0: ===============
+1:    MyCards
+2: ===============
+3: 
+4: 
+5: 
+6: 
+7:      $20.00
+8: 
+9: 
+10: 
+11: 
+12: 
+13: 
+14: ===============
+15: [A][B][C][D][E]
+Value: [Ljava.lang.String;@3cebbb30
+l: 10
+w: 15
+h: 15
+DEBUG: [244540223]
+
+
+Scan Now
+
+cnt1: 4
+pad1: 3
+...
+DEBUG: [Ljava.lang.String;@27462a88 4
+line (before): [244540223] [len = 11]
+line (after):   [244540223] [pad = 2]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before): Scan Now [len = 8]
+line (after):     Scan Now [pad = 4]
+cnt2: 7
+pad2: 3
+...
+
+
+0: ===============
+1:   MyCardsPay
+2: ===============
+3: 
+4: 
+5: 
+6:   [244540223]
+7:         
+8:         
+9:     Scan Now
+10: 
+11: 
+12: 
+13: 
+14: ===============
+15: [A][B][C][D][E]
+Value: [Ljava.lang.String;@82de64a
+{"balance":15.76,"cardCode":"244","cardNumber":"244540223","activated":true,"status":"New Card"}
+l: 10
+w: 15
+h: 15
+DEBUG: [244540223]
+
+
+Scan Now
+
+cnt1: 4
+pad1: 3
+...
+DEBUG: [Ljava.lang.String;@659499f1 4
+line (before): [244540223] [len = 11]
+line (after):   [244540223] [pad = 2]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before): Scan Now [len = 8]
+line (after):     Scan Now [pad = 4]
+cnt2: 7
+pad2: 3
+...
+
+
+0: ===============
+1:   MyCardsPay
+2: ===============
+3: 
+4: 
+5: 
+6:   [244540223]
+7:         
+8:         
+9:     Scan Now
+10: 
+11: 
+12: 
+13: 
+14: ===============
+15: [A][B][C][D][E]
+Value: [Ljava.lang.String;@51e69659
+l: 10
+w: 15
+h: 15
+DEBUG: $15.76
+
+cnt1: 1
+pad1: 4
+....
+DEBUG: [Ljava.lang.String;@47e2e487 1
+line (before): $15.76 [len = 6]
+line (after):      $15.76 [pad = 5]
+cnt2: 5
+pad2: 5
+.....
+
+
+0: ===============
+1:    MyCards
+2: ===============
+3: 
+4: 
+5: 
+6: 
+7:      $15.76
+8: 
+9: 
+10: 
+11: 
+12: 
+13: 
+14: ===============
+15: [A][B][C][D][E]
+Value: [Ljava.lang.String;@201a4587
+l: 10
+w: 15
+h: 15
+DEBUG: $15.76
+
+cnt1: 1
+pad1: 4
+....
+DEBUG: [Ljava.lang.String;@61001b64 1
+line (before): $15.76 [len = 6]
+line (after):      $15.76 [pad = 5]
+cnt2: 5
+pad2: 5
+.....
+
+
+0: ===============
+1:    MyCards
+2: ===============
+3: 
+4: 
+5: 
+6: 
+7:      $15.76
+8: 
+9: 
+10: 
+11: 
+12: 
+13: 
+14: ===============
+15: [A][B][C][D][E]
+Value: [Ljava.lang.String;@4310d43
+l: 10
+w: 15
+h: 15
+DEBUG: [244540223]
+
+
+Scan Now
+
+cnt1: 4
+pad1: 3
+...
+DEBUG: [Ljava.lang.String;@54a7079e 4
+line (before): [244540223] [len = 11]
+line (after):   [244540223] [pad = 2]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before): Scan Now [len = 8]
+line (after):     Scan Now [pad = 4]
+cnt2: 7
+pad2: 3
+...
+
+
+0: ===============
+1:   MyCardsPay
+2: ===============
+3: 
+4: 
+5: 
+6:   [244540223]
+7:         
+8:         
+9:     Scan Now
+10: 
+11: 
+12: 
+13: 
+14: ===============
+15: [A][B][C][D][E]
+Value: [Ljava.lang.String;@26e356f0
+{"balance":11.85,"cardCode":"244","cardNumber":"244540223","activated":true,"status":"New Card"}
+l: 10
+w: 15
+h: 15
+DEBUG: [244540223]
+
+
+Scan Now
+
+cnt1: 4
+pad1: 3
+...
+DEBUG: [Ljava.lang.String;@4b8ee4de 4
+line (before): [244540223] [len = 11]
+line (after):   [244540223] [pad = 2]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before): Scan Now [len = 8]
+line (after):     Scan Now [pad = 4]
+cnt2: 7
+pad2: 3
+...
+
+
+0: ===============
+1:   MyCardsPay
+2: ===============
+3: 
+4: 
+5: 
+6:   [244540223]
+7:         
+8:         
+9:     Scan Now
+10: 
+11: 
+12: 
+13: 
+14: ===============
+15: [A][B][C][D][E]
+l: 10
+w: 15
+h: 15
+DEBUG: [244540223]
+
+
+Scan Now
+
+cnt1: 4
+pad1: 3
+...
+DEBUG: [Ljava.lang.String;@27f981c6 4
+line (before): [244540223] [len = 11]
+line (after):   [244540223] [pad = 2]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before): Scan Now [len = 8]
+line (after):     Scan Now [pad = 4]
+cnt2: 7
+pad2: 3
+...
+
+
+0: ===============
+1:   MyCardsPay
+2: ===============
+3: 
+4: 
+5: 
+6:   [244540223]
+7:         
+8:         
+9:     Scan Now
+10: 
+11: 
+12: 
+13: 
+14: ===============
+15: [A][B][C][D][E]
+Value: [Ljava.lang.String;@1b11171f
+l: 10
+w: 15
+h: 15
+DEBUG: $11.85
+
+cnt1: 1
+pad1: 4
+....
+DEBUG: [Ljava.lang.String;@1151e434 1
+line (before): $11.85 [len = 6]
+line (after):      $11.85 [pad = 5]
+cnt2: 5
+pad2: 5
+.....
+
+
+0: ===============
+1:    MyCards
+2: ===============
+3: 
+4: 
+5: 
+6: 
+7:      $11.85
+8: 
+9: 
+10: 
+11: 
+12: 
+13: 
+14: ===============
+15: [A][B][C][D][E]
+Value: [Ljava.lang.String;@2dc54ad4
+l: 10
+w: 15
+h: 15
+DEBUG: [244540223]
+
+
+Scan Now
+
+cnt1: 4
+pad1: 3
+...
+DEBUG: [Ljava.lang.String;@4659191b 4
+line (before): [244540223] [len = 11]
+line (after):   [244540223] [pad = 2]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before): Scan Now [len = 8]
+line (after):     Scan Now [pad = 4]
+cnt2: 7
+pad2: 3
+...
+
+
+0: ===============
+1:   MyCardsPay
+2: ===============
+3: 
+4: 
+5: 
+6:   [244540223]
+7:         
+8:         
+9:     Scan Now
+10: 
+11: 
+12: 
+13: 
+14: ===============
+15: [A][B][C][D][E]
+Value: [Ljava.lang.String;@55634720
+{"path":"/order/register/5012349/pay/244540223","error":"Bad Request","message":"Order Not Found!","timestamp":"2023-05-17T22:39:07.685+00:00","status":400}
+org.json.JSONException: JSONObject["balance"] not found.
+l: 10
+w: 15
+h: 15
+DEBUG: [244540223]
+
+
+Scan Now
+
+cnt1: 4
+pad1: 3
+...
+DEBUG: [Ljava.lang.String;@428640fa 4
+line (before): [244540223] [len = 11]
+line (after):   [244540223] [pad = 2]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before): Scan Now [len = 8]
+line (after):     Scan Now [pad = 4]
+cnt2: 7
+pad2: 3
+...
+
+
+0: ===============
+1:   MyCardsPay
+2: ===============
+3: 
+4: 
+5: 
+6:   [244540223]
+7:         
+8:         
+9:     Scan Now
+10: 
+11: 
+12: 
+13: 
+14: ===============
+15: [A][B][C][D][E]
+Value: [Ljava.lang.String;@d9345cd
+{"balance":8.69,"cardCode":"244","cardNumber":"244540223","activated":true,"status":"New Card"}
+l: 10
+w: 15
+h: 15
+DEBUG: [244540223]
+
+
+Scan Now
+
+cnt1: 4
+pad1: 3
+...
+DEBUG: [Ljava.lang.String;@2d710f1a 4
+line (before): [244540223] [len = 11]
+line (after):   [244540223] [pad = 2]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before): Scan Now [len = 8]
+line (after):     Scan Now [pad = 4]
+cnt2: 7
+pad2: 3
+...
+
+
+0: ===============
+1:   MyCardsPay
+2: ===============
+3: 
+4: 
+5: 
+6:   [244540223]
+7:         
+8:         
+9:     Scan Now
+10: 
+11: 
+12: 
+13: 
+14: ===============
+15: [A][B][C][D][E]
+Value: [Ljava.lang.String;@29215f06
+{"balance":4.779999999999999,"cardCode":"244","cardNumber":"244540223","activated":true,"status":"New Card"}
+l: 10
+w: 15
+h: 15
+DEBUG: [244540223]
+
+
+Scan Now
+
+cnt1: 4
+pad1: 3
+...
+DEBUG: [Ljava.lang.String;@4efac082 4
+line (before): [244540223] [len = 11]
+line (after):   [244540223] [pad = 2]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before):  [len = 0]
+line (after):          [pad = 8]
+line (before): Scan Now [len = 8]
+line (after):     Scan Now [pad = 4]
+cnt2: 7
+pad2: 3
+...
+
+
+0: ===============
+1:   MyCardsPay
+2: ===============
+3: 
+4: 
+5: 
+6:   [244540223]
+7:         
+8:         
+9:     Scan Now
+10: 
+11: 
+12: 
+13: 
+14: ===============
+15: [A][B][C][D][E]
+Value: [Ljava.lang.String;@6bd61f98
+l: 10
+w: 15
+h: 15
+DEBUG: $4.78
+
+cnt1: 1
+pad1: 4
+....
+DEBUG: [Ljava.lang.String;@48aca48b 1
+line (before): $4.78 [len = 5]
+line (after):      $4.78 [pad = 5]
+cnt2: 5
+pad2: 5
+.....
+
+
+0: ===============
+1:    MyCards
+2: ===============
+3: 
+4: 
+5: 
+6: 
+7:      $4.78
+8: 
+9: 
+10: 
+11: 
+12: 
+13: 
+14: ===============
+15: [A][B][C][D][E]
+Exception in thread "main" java.io.IOError: java.io.IOException: Input/output error
+	at java.base/java.io.Console.readLine(Console.java:257)
+	at java.base/java.io.Console.readLine(Console.java:275)
+	at starbucks.Main.main(Main.java:37)
+Caused by: java.io.IOException: Input/output error
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:279)
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.base/java.io.Console$LineReader.read(Console.java:475)
+	at java.base/java.io.Console.readline(Console.java:414)
+	at java.base/java.io.Console.readLine(Console.java:253)
+	... 2 more
